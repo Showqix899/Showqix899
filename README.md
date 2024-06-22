@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=showqix899&label=Profile%20views&color=0e75b6&style=flat" alt="showqix899" /> </p>
 
-- 🌱 I’m currently learning **bootstrap,tailwind CSS,React**
+- 🌱 I’m currently learning **Django
 
 - 📫 How to reach me **mshowqi12@gmail.com**
 

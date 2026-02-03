@@ -52,8 +52,7 @@ Strong backend focus with working knowledge of modern frontend tools.
 ## 📊 GitHub Stats
 
 ### 🔥 GitHub Streak
-![GitHub Streak](https://streak-stats.demolab.com?user=MahmudShowqi&theme=tokyonight&hide_border=true)
-
+[![GitHub Streak](https://streak-stats.demolab.com/?user=MahmudShowqi)](https://git.io/streak-stats)
 ### 📈 GitHub Overview
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MahmudShowqi&show_icons=true&theme=tokyonight&hide_border=true)
 

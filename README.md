@@ -1,5 +1,5 @@
 <!-- ================== BANNER ================== -->
-![Banner](./banner.jpg)
+![Banner](./banner.jpg.png)
 <!-- Upload your banner.png to the root of this repo -->
 
 # 👋 Hi, I'm Abdullah Mahmud Showqi

@@ -4,7 +4,6 @@
 
 # 👋 Hi, I'm Abdullah Mahmud Showqi
 
-🚀 **Backend Developer | API Engineer | Problem Solver**  
 Passionate Full Stack Developer experienced in building scalable web applications using React, Django
 REST Framework, and Express.js. Skilled in developing RESTful APIs, managing databases with
 MongoDB, PostgreSQL, and MSSQL, and implementing secure backend systems. Familiar with modern
